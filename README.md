@@ -4,8 +4,8 @@
 I'm a passionate developer interested in open-source, web development, and AI.
 
 ## 🛠️ Skills & Tools
-- Languages: Python, JavaScript, C++
-- Frameworks: React, Node.js, Django
+- Languages: Python, JavaScript, Html, CSS
+- Frameworks: Jquery, Bootstrap, Django
 - Tools: VS Code, Git, Docker
 
 ## 📈 GitHub Stats
