@@ -101,7 +101,7 @@ Python Full-Stack Developer • UI/UX Designer • Open Source Enthusiast
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:shahallshad@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
